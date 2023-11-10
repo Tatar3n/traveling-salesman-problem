@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Dom\source\repos\Traveling Salesman Problem\Traveling Salesman Problem\main.cpp(17,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Traveling Salesman Problem.vcxproj -> C:\Users\Dom\source\repos\Traveling Salesman Problem\Debug\Traveling Salesman Problem.exe
